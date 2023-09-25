@@ -1,9 +1,9 @@
 # Monster Slayer Game
-### Udemy Project No.1
-### Course: Vue - The Complete Guide (incl. Router & Composition API)
+### Project No.1
+### Udemy Course: [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
 
 # Screenshot
-<img src="./images/screens.png" />
+<img src="./images/screen.png" />
 
 
 ## Languages and Technologies used in this project.
@@ -23,10 +23,5 @@ Added Vue.js CDN in index.html file to use Vue.js without creating Vue Applicati
 <script src="https://unpkg.com/vue@3/dist/vue.global.js"></script>
 ```
 
-To run the project files, run file:
-
-```bash
-index.html
-```
-
+To run the project, run file: `index.html` </br>
 To add your own custom styles, use the `styles.css` file.
