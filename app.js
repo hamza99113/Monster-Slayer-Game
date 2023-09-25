@@ -25,7 +25,7 @@ const app = Vue.createApp({
         },
         attackPlayer(){
             const attackValue = getRandomValue(8, 15);
-            this.playerHealth = this.palyerHealth - attackValue;
+            this.playerHealth = this.playerHealth - attackValue;
         }
     }
 });
