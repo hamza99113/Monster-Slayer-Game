@@ -24,4 +24,4 @@ To add your own custom styles, use the `styles.css` file.
 <img src="./images/screen.png" />
 
 # Reference:
-## Udemy Course: [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+### Udemy Course: [Vue - The Complete Guide (incl. Router & Composition API)](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
